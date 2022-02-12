@@ -1,5 +1,5 @@
 # auto3Dprintcam
-## Update 1, 12 feb 2022:
+## Update 1: 12 feb 2022
 I needed to adjust the original install instructions to change from libjpeg8-dev to libjpeg9-dev in this part: 
 ```
 sudo apt-get install build-essential libjpeg9-ev imagemagick libv4l-dev git cmake uvcdynctrl
