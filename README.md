@@ -2,8 +2,10 @@
 ## Update 1: 12 feb 2022
 I needed to adjust the original install instructions to change from libjpeg8-dev to libjpeg9-dev in this part: 
 ```
-sudo apt-get install build-essential libjpeg9-ev imagemagick libv4l-dev git cmake uvcdynctrl
+sudo apt-get install cmake libjpeg9-dev
 ```
+(old: sudo apt-get install build-essential libjpeg9-ev imagemagick libv4l-dev git cmake uvcdynctrl)
+
 ## Main info
 I wanted to monitor my 3D-printer automated with a simple cam connected to an RPi so I got the hardware and printed 
 some cases for it and did some coding.
