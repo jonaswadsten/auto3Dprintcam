@@ -10,8 +10,9 @@ some cases for it and did some coding.
 
 This program starts a webcam on my 3D-printer when the light/printer turns on and stops when it is turned of.
 
-I have used the rpi-mjpg-streamer by meinside (https://github.com/meinside/rpi-mjpg-streamer) and installed according to 
+I have used the rpi-mjpg-streamer by meinside (https://github.com/jacksonliam/mjpg-streamer) and installed according to 
 his description and it works like a charm.
+(Another version of the mjpg-streamer https://github.com/meinside/rpi-mjpg-streamer)
 
 I am using an wide-angle rpi-cam like this https://www.amazon.co.uk/Raspberry-Wide-Angle-Fish-Eye-Camera/dp/B00N1YJKFS
 plus an photo resistor/light sensor modul for Raspberry Pis found in this example:
